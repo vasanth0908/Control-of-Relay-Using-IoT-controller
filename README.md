@@ -1,4 +1,4 @@
-# Control-of-Relay-Using-IoT-controller
+# EXP 2 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -51,7 +51,7 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-[exp2.bmp](https://github.com/user-attachments/files/22254205/exp2.bmp)
+![exp2](https://github.com/user-attachments/assets/d578b599-309d-4f74-8c17-c315013246ec)
 
 ## OUTPUT:
 ## ON
