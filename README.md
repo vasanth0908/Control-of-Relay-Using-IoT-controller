@@ -56,10 +56,11 @@ void loop() {
 ## OUTPUT:
 ## ON
 <img width="818" height="571" alt="image" src="https://github.com/user-attachments/assets/ac8642d2-6a58-4d17-a7b1-5c9588d8cc64" />
-```
+
+
 ## OFF
 <img width="816" height="577" alt="image" src="https://github.com/user-attachments/assets/f5cc08f7-19a3-4581-975c-3c4880467ce9" />
-```
+
 
 
 ## RESULT:
