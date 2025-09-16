@@ -54,15 +54,18 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-![exp2](https://github.com/user-attachments/assets/d578b599-309d-4f74-8c17-c315013246ec)
+![Relay_exp2_page-0001 (3)](https://github.com/user-attachments/assets/67dd00ee-2b2e-4828-a0e0-43f43674c362)
+
 
 ## OUTPUT:
 ## ON
-<img width="818" height="571" alt="image" src="https://github.com/user-attachments/assets/ac8642d2-6a58-4d17-a7b1-5c9588d8cc64" />
+<img width="667" height="467" alt="image" src="https://github.com/user-attachments/assets/0c97da23-2802-42f2-bac6-10cc47408145" />
+
 
 
 ## OFF
-<img width="816" height="577" alt="image" src="https://github.com/user-attachments/assets/f5cc08f7-19a3-4581-975c-3c4880467ce9" />
+<img width="664" height="464" alt="Screenshot 2025-09-16 113954" src="https://github.com/user-attachments/assets/a120a706-7afd-4803-9246-3f73401cc336" />
+
 
 
 
